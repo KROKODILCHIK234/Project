@@ -1,0 +1,35 @@
+fastapi
+# FastAPI for building the web framework
+
+uvicorn
+# Uvicorn for ASGI server to run FastAPI
+
+sqlalchemy
+# SQLAlchemy for database ORM and connection
+
+alembic
+# Alembic for handling database migrations
+
+psycopg2
+# PostgreSQL adapter for Python, used with SQLAlchemy for PostgreSQL
+
+pydantic
+# Pydantic for data validation and parsing
+
+python-dotenv
+# To load environment variables from a .env file
+
+passlib
+# For password hashing utilities
+
+jinja2
+# For rendering templates if needed in the project
+
+requests
+# For making HTTP requests to external services
+
+async-exit-stack
+# Helps manage asynchronous context managers
+
+async-generator
+# Provides support for creating asynchronous generators
